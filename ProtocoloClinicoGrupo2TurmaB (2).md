@@ -316,6 +316,7 @@ crónica não psicotrópica previamente estabelecida.
 <img width="8192" height="4507" alt="atividade_uso app" src="https://github.com/user-attachments/assets/06e4eed3-9f38-465e-8799-a35111f1142a" />
 Figura 4: Diagrama de casos de uso da aplicação MindMove, com as
 principais funcionalidades disponibilizadas ao utilizador.
+
 #### 2.3.2 Grupo Controlo
 
 Os participantes deste grupo não terão acesso à aplicação durante as 8
@@ -507,49 +508,33 @@ participantes do estudo, e a intervenção *MindMove* será disponibilizada
 gratuitamente aos estudantes que integraram o grupo de controlo.
 
 ------------------------------------------------------------------------
+## 6. Referências Bibliográficas
 
-\### Referências Bibliográficas - American Psychological Association.
-(2022). Mental health of college students is getting worse. Monitor on
-Psychology, 53(7).
+### 6.1 Prompt usado na IA
+Para a elaboração e estruturação deste protocolo segundo a norma SPIRIT, utilizou-se o assistente de IA Gemini (Google). A interação seguiu as diretrizes de transparência sugeridas, utilizando os seguintes comandos:
 
-[1] Ibrahim, A. K., Kelly, S. J., Adams, C. E., & Glazebrook,
-C. (2013). A systematic review of studies of depression prevalence in university students. J Psychiatr Res, 47(3), 391-400.
-https://doi.org/10.1016/j.jpsychires.2012.11.015
+**Gemini:** Estou a escrever o racional de um protocolo SPIRIT para um ensaio clínico randomizado. Cenário: App MindMove com as seguintes funcionalidades:Módulos de dCBT (digital Cognitive Behavioral Therapy),Exercícios de ativação comportamental,Diário de humor (mood tracking) Lembretes para atividade física Técnicas de mindfulness guiadas (tou a tentar escrever a prompt como diz nos slides, mas sinceramente nao sei se isto é o que é suposto eu fazer, ajuda-me a perceber se tou a fazer alguma coisa de jeito),Monitorização de padrões de sono,Sugestões personalizadas baseadas em humor ,Comparador: Lista de espera + material educativo estático:Acesso a brochuras sobre saúde mental,Lista de recursos disponíveis,SEM intervenção activa durante estudo,Oferta de acesso à app após conclusão do estudo,Outcome primário: Primário: PHQ-9 score às 8 semanas,Secundários:,GAD-7 (ansiedade),Nível de atividade física (minutos/semana),Qualidade do sono (PSQI - Pittsburgh Sleep Quality Index),Satisfação com intervenção,Engagement com app (tempo de uso, módulos completados),Taxa de dropout Escreve (...) Usar linguagem científica formal. Não usar marcadores de lista — texto corrido.
+## 6.2 Referências
 
-[2] Gulliver, A., Griffiths, K. M., & Christensen, H. (2010). Perceived barriers
-and facilitators to mental health help-seeking in young people: a systematic
-review. BMC Psychiatry, 10, 113. https://doi.org/10.1186/1471-244X-10-
-113
+[1] Ibrahim, A. K., Kelly, S. J., Adams, C. E., & Glazebrook, C. (2013). A systematic review of studies of depression prevalence in university students. J Psychiatr Res, 47(3), 391-400. <https://doi.org/10.1016/j.jpsychires.2012.11.015>
 
-[3] Karyotaki, E., Efthimiou, O., Miguel, C., Bermpohl, F. M. G., Furukawa,
-T. A., Cuijpers, P., Individual Patient Data Meta-Analyses for Depression, C., Riper, H., Patel, V., Mira, A., Gemmil, A. W., Yeung, A. S.,
-Lange, A., Williams, A. D., Mackinnon, A., Geraedts, A., van Straten, A.,
-Meyer, B., Bjorkelund, C., ... Forsell, Y. (2021). Internet-Based Cognitive
-Behavioral Therapy for Depression: A Systematic Review and Individual
-Patient Data Network Meta-analysis. JAMA Psychiatry, 78(4), 361-371.
-https://doi.org/10.1001/jamapsychiatry.2020.4364
+[2] Gulliver, A., Griffiths, K. M., & Christensen, H. (2010). Perceived barriers and facilitators to mental health help-seeking in young people: a systematic review. BMC Psychiatry, 10, 113. <https://doi.org/10.1186/1471-244X-10-113>
 
-[4] Kroenke, K., Spitzer, R. L., & Williams, J. B. (2001). The PHQ-9: validity
-of a brief depression severity measure. J Gen Intern Med, 16(9), 606-613.
-https://doi.org/10.1046/j.1525-1497.2001.016009606.x
+[3] Karyotaki, E., Efthimiou, O., Miguel, C., Bermpohl, F. M. G., Furukawa, T. A., Cuijpers, P., Individual Patient Data Meta-Analyses for Depression, C., Riper, H., Patel, V., Mira, A., Gemmil, A. W., Yeung, A. S., Lange, A., Williams, A. D., Mackinnon, A., Geraedts, A., van Straten, A., Meyer, B., Bjorkelund, C., ... Forsell, Y. (2021). Internet-Based Cognitive Behavioral Therapy for Depression: A Systematic Review and Individual Patient Data Network Meta-analysis. JAMA Psychiatry, 78(4), 361-371. <https://doi.org/10.1001/jamapsychiatry.2020.4364>
 
-[5] McCoy, C. E. (2017). Understanding the Intention-to-treat Principle in
-Randomized Controlled Trials. West J Emerg Med, 18(6), 1075-1078.
-https://doi.org/10.5811/westjem.2017.8.35985
+[4] Kroenke, K., Spitzer, R. L., & Williams, J. B. (2001). The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med, 16(9), 606-613. <https://doi.org/10.1046/j.1525-1497.2001.016009606.x>
 
-[6] Spitzer, R. L., Kroenke, K., Williams, J. B., & Lowe, B. (2006). A brief
-measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern
-Med, 166(10), 1092-1097. https://doi.org/10.1001/archinte.166.10.1092
+[5] McCoy, C. E. (2017). Understanding the Intention-to-treat Principle in Randomized Controlled Trials. West J Emerg Med, 18(6), 1075-1078. <https://doi.org/10.5811/westjem.2017.8.35985>
 
-[7] World Medical, A. (2013). World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects.
-JAMA, 310(20), 2191-2194. https://doi.org/10.1001/jama.2013.281053
+[6] Spitzer, R. L., Kroenke, K., Williams, J. B., & Lowe, B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med, 166(10), 1092-1097. <https://doi.org/10.1001/archinte.166.10.1092>
 
+[7] World Medical, A. (2013). World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects. JAMA, 310(20), 2191-2194. <https://doi.org/10.1001/jama.2013.281053>
 
 ------------------------------------------------------------------------
 
 **Versão:** 1.
 
-**Data desta versão:** 21/03/26
+**Data desta versão:** 26/03/26
 
 **Autores desta versão:** Maria João Marques Roso, Inês Mota Assunção,
-Maria João Lopes Roldão
+Maria João Lopes Roldão, Inês Duque Formoso
